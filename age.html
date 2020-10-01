@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="try.css">
+
+</head>
+
+<body>
+    <header></header>
+
+    <main class="main">
+
+      <p class="startArea"> Wanna know your age in days?</p>
+
+        <img src="./click here.gif" alt="CLICK HERE" class="clickHere" onclick="myFunction()">
+
+        
+    
+        <div id="formContainer">
+          <form action="" class="form">
+
+            <input
+              class="block"
+              type="text"
+              name="name"
+              id="yourName"
+              placeholder="Your Name"
+            />
+            <input
+              class="block"
+              type="number"
+              name="age"
+              id="yourAge"
+              placeholder="Your Age in Years"
+            />
+        
+               <p id="result"></p>
+
+            <button class="block" id="calcButt"  type="submit" onclick="calcAgeDays()">
+              Let's Find out!
+            </button>
+            
+          </form>
+        </div>
+      </main>
+      <footer></footer>
+    <script src="try.js"></script>
+</body>
+</html>
