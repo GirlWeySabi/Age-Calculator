@@ -22,8 +22,8 @@ This web app will help you calculate your age in days. Simply put in your name a
 
 
 # Author
-Christiana Okere A.K.A. GirlWeySabi
-_LinkedIn: https://bit.ly/Christiana_Okere_
+> Christiana Okere A.K.A. GirlWeySabi
+> _LinkedIn: https://bit.ly/Christiana_Okere_
 
 # Acknowledgement
 * GitHub: @Chiomy @Gnwin
