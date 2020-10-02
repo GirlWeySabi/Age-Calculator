@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="age.css">
-
 </head>
 
 <body>
@@ -15,11 +14,11 @@
 
       <p class="startArea"> Wanna know your age in days?</p>
 
-        <img src="./click here.gif" alt="CLICK HERE" class="clickHere" onclick="myFunction()">
+        <img src="./click here.gif" alt="CLICK HERE" class="clickHere">
 
         
     
-        <div id="formContainer">
+        <div id="formContainer" class = "hidden">
           <form action="" class="form">
 
             <input
@@ -36,15 +35,25 @@
               id="yourAge"
               placeholder="Your Age in Years"
             />
-        
-               <p id="result"></p>
 
-            <button class="block" id="calcButt"  type="submit" onclick="calcAgeDays()">
+            <button class="block" id="calcButt"  type="submit">
               Let's Find out!
             </button>
             
           </form>
+         </div>
+
+        <div id ="finalMsg" class="hidden">
+
+        <p class= "displayName"> </p> 
+        
+        <p class="displayYears"> </p> 
+          
+        <p class="displayDays"> </p>
+
         </div>
+
+
       </main>
       <footer></footer>
     <script src="age.js"></script>
