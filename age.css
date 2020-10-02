@@ -1,63 +1,63 @@
 * { 
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
-  }
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
 /* 
-  .main {
-  width: 100%;
+.main {
+width: 100%;
+height: 100vh;
+position: relative;
+overflow: hidden;
+background: linear-gradient(to right, #9c27b0, #8ecdff);
+} */
+
+.main {
   height: 100vh;
-  position: relative;
-  overflow: hidden;
-  background: linear-gradient(to right, #9c27b0, #8ecdff);
-  } */
+}
 
-  .main {
-    height: 100vh;
-  }
+.startArea{
+    background-color: aqua;
+    width: 50%;
+    height: 50px;
+    padding: 20px 20px 20px 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    border-style: solid;
+    font-size: 50px;
+    font-weight: bold;
+    box-shadow: 0 10px 50px -10px black ;
+}
 
-  .startArea{
-      background-color: aqua;
-      width: 50%;
-      height: 50px;
-      padding: 20px 20px 20px 20px;
-      margin: 0 auto;
-      margin-top: 20px;
-      margin-bottom: 15px;
-      border-radius: 20px;
-      border-style: solid;
-      font-size: 50px;
-      font-weight: bold;
-      box-shadow: 0 10px 50px -10px black ;
-  }
 
- 
 .clickHere {
 width: 250px;
 margin: 40px 0 30px 42%;
 }
 
 .hidden {
-  display: none;
+display: none;
 }
 
 #formContainer {
-  background-color: aqua;
-  width: 50%;
-  height: 300px;
-  margin: 0 auto;
-  padding: 20px;
-  border-radius: 20px; 
-  border-style: dotted;
+background-color: aqua;
+width: 50%;
+height: 300px;
+margin: 0 auto;
+padding: 20px;
+border-radius: 20px; 
+border-style: dotted;
 }
 
 #formContainer .block{
-  display: block;
-  margin: 20px;
-  width: 90%;
-  padding: 20px;
-  border-radius: 10px;
-  font-size: 20px;
+display: block;
+margin: 20px;
+width: 90%;
+padding: 20px;
+border-radius: 10px;
+font-size: 20px;
 } 
 
 /* #formContainer #result {
@@ -70,30 +70,30 @@ margin-bottom: 5px;
 } */
 
 #formContainer #calcButt {
-  display: block;
-  background-color: grey;
-  color: white;
-  width: 30%;
-  padding: 10px 5px;
-  border-radius: 10px;   
-  margin: 49px 0 0px 34%; 
+display: block;
+background-color: grey;
+color: white;
+width: 30%;
+padding: 10px 5px;
+border-radius: 10px;   
+margin: 49px 0 0px 34%; 
 }
 
 #formContainer #calcButt:hover {
-  transition: border-bottom 1s;
-  background-color: indigo;
+transition: border-bottom 1s;
+background-color: indigo;
 } 
 
 #finalMsg {
-  background-color: aqua;
-  width: 50%;
-  height: 250px;
-  margin: 0 auto;
-  padding: 20 0 0 0px;
-  border-radius: 20px; 
-  border-style: solid;
-  font-size: 30px;
-  margin-top: 50px;
+background-color: aqua;
+width: 50%;
+height: 250px;
+margin: 0 auto;
+padding: 20 0 0 0px;
+border-radius: 20px; 
+border-style: solid;
+font-size: 30px;
+margin-top: 50px;
 }
 
 #finalMsg .displayName {
@@ -103,12 +103,12 @@ text-align: center;
 }
 
 #finalMsg .displayYears {
-  margin: 50px 0 50px 0;
-  font-weight: bold;
-  text-align: center;
+margin: 50px 0 50px 0;
+font-weight: bold;
+text-align: center;
 }
 
 #finalMsg .displayDays {
-  font-weight: bold;
-  text-align: center;
+font-weight: bold;
+text-align: center;
 }
