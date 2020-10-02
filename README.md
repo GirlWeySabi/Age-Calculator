@@ -17,7 +17,7 @@ This web app will help you calculate your age in days. Simply put in your name a
 
 
 # Visuals
-![Input_Display _of Calculator_App.](IMAGE2.PNG "Input Display")
-![Output_Display _of Calculator_App.](IMAGE3.PNG "Output Display")
+![Input_Display _of_Calculator_App.](/IMAGE2.PNG "Input Display")
+![Output_Display _of_Calculator_App.](/IMAGE3.PNG "Output Display")
 
 
