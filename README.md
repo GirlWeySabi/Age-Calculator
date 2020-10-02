@@ -11,13 +11,12 @@ This web app will help you calculate your age in days. Simply put in your name a
 ###### Text Editor used: VScode
 
 # Languages
-*HTML
-*CSS
-*JAVASCRIPT
+* HTML
+* CSS
+* JAVASCRIPT
 
 
 # Visuals
-![Welcome_Display _of Calculator_App.](IMAGE1.PNG "Welcome Display")
 ![Input_Display _of Calculator_App.](IMAGE2.PNG "Input Display")
 ![Output_Display _of Calculator_App.](IMAGE3.PNG "Output Display")
 
