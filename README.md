@@ -21,11 +21,13 @@ This web app will help you calculate your age in days. Simply put in your name a
 ![Output_Display _of_Calculator_App](/IMAGE3.PNG "Output Display")
 
 
-# Author
-> Christiana Okere A.K.A. GirlWeySabi
-> _LinkedIn: https://bit.ly/Christiana_Okere_
+# Author 
+###### Christiana Okere A.K.A. _GirlWeySabi_
+  
+###### LinkedIn: https://bit.ly/Christiana_Okere_
+###### Twitter: https://bit.ly/2ELfXZb
 
-# Acknowledgement
+###### Acknowledgement
 * GitHub: @Chiomy @Gnwin
 * Twitter: @hub_mic
 
